@@ -35,6 +35,7 @@ public class Main {
         bike3.applyBrakes(30);
         bike3.getStates();
 
+        System.out.printf("halloooooooo");
 
     }
 }
